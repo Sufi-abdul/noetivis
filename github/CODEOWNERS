@@ -1,0 +1,15 @@
+
+# Default code owners
+* @noetivis-foundation
+
+# Backend
+/backend/ @noetivis-backend
+
+# Frontend/UI
+/web/ @noetivis-frontend
+/landing/ @noetivis-frontend
+
+# Docs
+/docs/ @noetivis-docs
+/mkdocs/ @noetivis-docs
+/packets/ @noetivis-docs

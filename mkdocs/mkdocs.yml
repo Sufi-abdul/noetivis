@@ -1,0 +1,10 @@
+
+site_name: Noetivis Docs
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Monetization: monetization.md
+  - Commission: commission.md
+  - Partner Program: partners.md

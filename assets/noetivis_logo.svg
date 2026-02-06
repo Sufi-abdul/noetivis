@@ -1,0 +1,8 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="180">
+  <rect width="520" height="180" rx="28" fill="#05070f"/>
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle"
+        font-size="46" fill="#00ffe0" font-family="system-ui" font-weight="800">NOETIVIS</text>
+  <text x="50%" y="74%" dominant-baseline="middle" text-anchor="middle"
+        font-size="14" fill="#e6fff9" font-family="system-ui" opacity="0.85">Phase 6</text>
+</svg>

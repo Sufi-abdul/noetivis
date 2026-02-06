@@ -1,0 +1,12 @@
+
+# Add admin pages:
+# - AdminAudits
+# - AdminCompliance
+# - AdminTenants
+# - AdminPlugins
+#
+# Route examples:
+# /admin/audits
+# /admin/compliance
+# /admin/tenants
+# /admin/plugins
