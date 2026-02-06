@@ -1,0 +1,13 @@
+
+# Example usage in sensitive endpoints:
+#
+# from fastapi import Depends, Request
+# from security.api_keys import require_api_key
+# from security.rate_limit import rate_limit
+# from security.audit import audit
+#
+# @router.post("/something-sensitive")
+# def sensitive(req: Request, api_key=Depends(require_api_key)):
+#     rate_limit(req)
+#     audit({"actor":"api_key", "key": api_key, "action":"something-sensitive"})
+#     ...
