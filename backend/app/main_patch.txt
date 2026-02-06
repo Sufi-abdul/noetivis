@@ -1,0 +1,14 @@
+
+# Include new routers in backend/app/main.py (if not auto-loading all routers already):
+# from app.routers import wallet, webhooks, reconcile
+# app.include_router(wallet.router)
+# app.include_router(webhooks.router)
+# app.include_router(reconcile.router)
+#
+# Use DB init:
+# python backend/app/init_db_phase20.py
+#
+# Webhook secrets:
+# export NOETIVIS_PAYSTACK_WEBHOOK_SECRET=...
+# export NOETIVIS_FLUTTERWAVE_WEBHOOK_SECRET=...
+# export NOETIVIS_STRIPE_WEBHOOK_SECRET=...
